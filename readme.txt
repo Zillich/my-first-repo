@@ -1,2 +1,2 @@
 hello git !
-I want to get a job.
+git is a good tool!
