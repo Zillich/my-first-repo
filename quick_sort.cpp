@@ -51,5 +51,6 @@ int main(void){
 	int arr[] = { 3, 5, 1, 2, 4 };
 	int nun_arr = 5;
 	quick_sort(arr, 0, nun_arr - 1);
+	// print arr;	arr[] = {1, 2, 3, 4 ,5}
 	return 0;
 }
